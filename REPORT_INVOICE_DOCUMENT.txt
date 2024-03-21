@@ -144,7 +144,7 @@
                             <thead>
                                 <tr>
                                     <th name="th_description" class="text-start"><span>Partida</span></th>
-                                    <th name="th_default_code" class="text-start"><span>SKU</span></th>
+                                    <th name="th_default_code" class="text-start"><span>Código</span></th>
                                     <th name="th_description" class="text-start"><span>Description</span></th>
                                     <th name="th_quantity" class="text-end"><span>Quantity</span></th>
                                     <th name="th_priceunit" t-attf-class="text-end {{ 'd-none d-md-table-cell' if report_type == 'html' else '' }}"><span>Unit Price</span></th>
